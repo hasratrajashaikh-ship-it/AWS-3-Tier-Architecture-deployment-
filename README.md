@@ -5,7 +5,6 @@ This repository contains a simple "Message From Database" application built usin
 
 ## Architecture Overview
 
-![alt text](aws-three-tier-architecture.png)
 
 The application follows the classic three-tier architecture:
 
